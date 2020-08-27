@@ -1,6 +1,6 @@
 # dysphoria-tracker
 Tracker for gender dysphoria
-needs matplotlib module
+Needs matplotlib module
 (pip install matplotlib)
-then run dysphoria.py
-log is days.txt
+then run dysphoria.py.
+The log is days.txt
